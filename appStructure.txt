@@ -1,0 +1,9 @@
+TodoProject
+
+    todos (app folder)
+
+        migrations (includes files related to migrations)
+
+        static
+            todos
+            styles.css   
